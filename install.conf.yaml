@@ -4,6 +4,8 @@
         ~/.bashrc: bashrc
         ~/.gdbinit: gdbinit
         ~/.gitconfig: gitconfig
+        ~/.git-completion: git-completion
+        ~/.git-prompt: git-prompt
         ~/.vimrc: vimrc
         ~/.vim: vim/
 - shell: 
