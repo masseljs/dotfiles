@@ -5,3 +5,5 @@
     br = branch
     st = status
     di = diff
+[credential]
+    helper = store
