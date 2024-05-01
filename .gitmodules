@@ -1,3 +1,15 @@
 [submodule "dotbot"]
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot.git
+[submodule "vim/pack/plugins/start/ack.vim"]
+	path = vim/pack/plugins/start/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "vim/pack/plugins/start/ctrlp.vim"]
+	path = vim/pack/plugins/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "vim/pack/plugins/start/vim-code-dark"]
+	path = vim/pack/plugins/start/vim-code-dark
+	url = https://github.com/tomasiser/vim-code-dark.git
+[submodule "vim/pack/plugins/start/vim-cpp-modern"]
+	path = vim/pack/plugins/start/vim-cpp-modern
+	url = https://github.com/bfrg/vim-cpp-modern.git
