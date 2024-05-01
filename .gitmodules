@@ -13,3 +13,6 @@
 [submodule "vim/pack/plugins/start/vim-cpp-modern"]
 	path = vim/pack/plugins/start/vim-cpp-modern
 	url = https://github.com/bfrg/vim-cpp-modern.git
+[submodule "vim/pack/plugins/start/nerdtree"]
+	path = vim/pack/plugins/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
